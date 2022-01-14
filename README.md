@@ -1,0 +1,2 @@
+# Lotto
+Lottery game
