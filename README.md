@@ -1,2 +1,2 @@
 # Lotto
-Lottery game
+A game of chance based on the Lottery
